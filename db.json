@@ -1,0 +1,94 @@
+{
+  "em_cartaz": [
+    {
+      "id": 1,
+      "título": "ADÃO NEGRO",
+      "ano": 2022,
+      "roteiro": "Adam Sztykiel",
+      "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/10/18/22/38/0636138.jpg"
+    },
+    {
+      "título": "ONE PIECE FILM - RED",
+      "ano": 2022,
+      "roteiro": "Eiichiro Oda",
+      "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/10/25/18/11/5327705.jpg",
+      "id": 2
+    },
+    {
+      "título": "SORRIA",
+      "ano": 2022,
+      "roteiro": "Parker Finn",
+      "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/22/09/20/15/51/1507365.jpg",
+      "id": 3
+    },
+    {
+      "título": "A MULHER REI",
+      "ano": 2022,
+      "roteiro": "Maria Bello, Dana Stevens",
+      "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/09/19/20/28/5720375.jpg",
+      "id": 4
+    },
+    {
+      "título": "A LUZ DO DEMÔNIO",
+      "ano": 2022,
+      "roteiro": "Robert Zappia",
+      "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/22/07/14/19/17/2090282.jpg",
+      "id": 5
+    },
+    {
+      "título": "MINIONS 2: A ORIGEM DE GRU",
+      "ano": 2022,
+      "roteiro": "Cinco Paul, Brian Lynch",
+      "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/20/02/03/15/22/4954456.jpg",
+      "id": 6
+    }
+  ],
+  "precos": [
+    {
+      "sala": 1,
+      "valorMeia": "R$20",
+      "valorInteira": "R$40",
+      "id": 1
+    },
+    {
+      "sala": 2,
+      "valorMeia": "R$22",
+      "valorInteira": "R$44",
+      "id": 2
+    },
+    {
+      "sala": 3,
+      "valorMeia": "R$25",
+      "valorInteira": "R$50",
+      "id": 3
+    },
+    {
+      "sala": 4,
+      "valorMeia": "R$26",
+      "valorInteira": "R$52",
+      "id": 4
+    }
+  ],
+  "cinemas": [
+    {
+      "municipio": "Rio de Janeiro",
+      "local": "Barra da Tijuca",
+      "id": 1
+    },
+    {
+      "municipio": "Rio de Janeiro",
+      "local": "Tijuca",
+      "id": 2
+    },
+    {
+      "municipio": "Rio de Janeiro",
+      "local": "Campo Grande",
+      "id": 3
+    },
+    {
+      "municipio": "Rio de Janeiro",
+      "local": "Riachuelo",
+      "id": 4
+    }
+  ]
+}
